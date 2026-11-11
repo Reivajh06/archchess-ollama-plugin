@@ -1,5 +1,7 @@
 # Archchess Ollama plugin
 
+![Alt text](ollama-logo.png)
+
 An [Archchess](https://github.com/ReivajH06) plugin (type `AI`) that asks a locally installed [Ollama](https://ollama.com) model for its move.
 
 ## Install
