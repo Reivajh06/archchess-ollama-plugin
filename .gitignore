@@ -2,7 +2,7 @@ target/
 .idea/
 *.iml
 # Local files are not redistributed here
-ollama/
+/ollama/
 *.exe
 lib/.locks/
 lib/**/_remote.repositories
