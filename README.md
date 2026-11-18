@@ -7,7 +7,7 @@ An [Archchess](https://github.com/ReivajH06) plugin (type `AI`) that asks a loca
 ## Install
 
 1. Install Ollama and pull at least one model (`ollama pull qwen3:14b`).
-2. Download `ollama.jar` from the [latest release](../../releases/latest) (requires Java 25) and drop it in Archchess' plugins folder.
+2. Download `ollama.jar` from the [latest release](../../releases/latest) (requires Java 21) and drop it in Archchess' plugins folder.
 
 If Ollama or its models are missing, `start()` throws `IllegalStateException("Local llm not installed")`
 and the plugin answers `$archchess:{"error":"Local llm not installed"}`. If Ollama is installed but its
